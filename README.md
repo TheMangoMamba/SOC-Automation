@@ -106,6 +106,7 @@ The VirusTotal analysis provided detailed information about the file's reputatio
 ### Incident Management
 
 ![TheHive Alert Creation](screenshots/hive-alert-success.png)
+**Note:** This rule already exists from a previous execution.
 
 ![TheHive Alert Status](screenshots/alert-thehive-success.png)
 
