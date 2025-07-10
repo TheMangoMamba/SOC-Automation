@@ -1,6 +1,3 @@
-# SOC-Automation
-A SOC automation pipeline using Wazuh, Shuffle, VirusTotal and TheHive
-
 # SOC Automation Project: Automated Threat Detection and Response
 
 ## Project Overview
@@ -8,11 +5,11 @@ A SOC automation pipeline using Wazuh, Shuffle, VirusTotal and TheHive
 This project demonstrates the implementation of a comprehensive Security Operations Center (SOC) automation pipeline using open-source tools to detect, analyze, and respond to security threats. The system simulates real-world attack scenarios and automates the incident response process from initial detection through alert enrichment and analyst notification.
 
 ### Objective
-To build an automated security incident response system that can:
+The objective of this project is to build an automated security incident response system that can:
 - Detect malicious file execution in real-time
-- Automatically enrich alerts with threat intelligence
+- Enrich alerts with threat intelligence
 - Create incident tickets for security analysts
-- Notify appropriate personnel via email
+- Notify the appropriate personnel via email
 
 ### Tools and Technologies Used
 - **Windows 10 VM**: Target system for attack simulation
