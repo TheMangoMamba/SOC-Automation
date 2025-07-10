@@ -37,7 +37,7 @@ The project infrastructure was deployed using cloud-based virtual machines confi
 
 ### Wazuh Configuration
 
-![Wazuh Agent Status](screenshots/wazuh-agent-running.png)
+![Wazuh Agent Status](screenshots/wazuh-manager-running.png)
 
 A custom Wazuh rule was implemented to detect file execution events, specifically targeting the execution of Mimikatz:
 
