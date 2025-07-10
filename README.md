@@ -55,7 +55,7 @@ The Wazuh agent was successfully deployed and configured on the Windows 10 VM to
 
 ![Cassandra Service](screenshots/cassandra-service.png)
 
-Critical backend services including Elasticsearch and Cassandra were configured to support the SIEM and case management platforms, ensuring reliable data storage and retrieval.
+Backend services including Elasticsearch and Cassandra were configured to support the SIEM and case management platforms, ensuring TheHive has reliable data storage and retrieval.
 
 ### TheHive Integration
 
@@ -172,13 +172,5 @@ This automation framework can be adapted for enterprise environments to:
 - Enhance threat detection capabilities
 - Standardize security workflows
 - Provide comprehensive audit trails
-
-### Future Enhancements
-Potential improvements for production deployment include:
-- Integration with additional threat intelligence sources
-- Implementation of machine learning for anomaly detection
-- Development of playbooks for different attack scenarios
-- Enhanced reporting and metrics collection
-- Integration with endpoint detection and response (EDR) tools
 
 This project demonstrates the practical application of security automation concepts and provides a foundation for building more sophisticated SOC capabilities in enterprise environments.
