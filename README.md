@@ -4,6 +4,8 @@
 
 This project demonstrates the implementation of a comprehensive Security Operations Center (SOC) automation pipeline using open-source tools to detect, analyze, and respond to security threats. The system simulates real-world attack scenarios and automates the incident response process from initial detection through alert enrichment and analyst notification.
 
+![Diagram Overview](screenshots/diagram.png)
+
 ### Objective
 The objective of this project is to build an automated security incident response system that can:
 - Detect malicious file execution in real-time
